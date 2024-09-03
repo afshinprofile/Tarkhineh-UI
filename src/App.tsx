@@ -5,11 +5,7 @@
 
 function App() {
   
-  return (
-    <>
-    
-    </>
-  )
+  return true
 }
 
 export default App;
